@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>picking flowers on Life At The Circus</title>
-    <link>LifeAtTheCircus.github.io/tags/picking-flowers/</link>
+    <link>/tags/picking-flowers/</link>
     <description>Recent content in picking flowers on Life At The Circus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2013 10:44:00 +0000</lastBuildDate><atom:link href="LifeAtTheCircus.github.io/tags/picking-flowers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2013 10:44:00 +0000</lastBuildDate><atom:link href="/tags/picking-flowers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Precious Moment</title>
-      <link>LifeAtTheCircus.github.io/posts/precious-moment/</link>
+      <link>/posts/precious-moment/</link>
       <pubDate>Mon, 10 Jun 2013 10:44:00 +0000</pubDate>
       
-      <guid>LifeAtTheCircus.github.io/posts/precious-moment/</guid>
+      <guid>/posts/precious-moment/</guid>
       <description></description>
     </item>
     

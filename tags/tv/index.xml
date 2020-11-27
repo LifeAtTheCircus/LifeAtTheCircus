@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TV on Life At The Circus</title>
-    <link>LifeAtTheCircus.github.io/tags/tv/</link>
+    <link>/tags/tv/</link>
     <description>Recent content in TV on Life At The Circus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Apr 2012 08:30:00 +0000</lastBuildDate><atom:link href="LifeAtTheCircus.github.io/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Apr 2012 08:30:00 +0000</lastBuildDate><atom:link href="/tags/tv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Their Current Favorite</title>
-      <link>LifeAtTheCircus.github.io/posts/their-current-favorite/</link>
+      <link>/posts/their-current-favorite/</link>
       <pubDate>Thu, 12 Apr 2012 08:30:00 +0000</pubDate>
       
-      <guid>LifeAtTheCircus.github.io/posts/their-current-favorite/</guid>
+      <guid>/posts/their-current-favorite/</guid>
       <description>Round these parts the_ current _ show which they all can agree on when they are given the chance to pick something is Woody Woodpecker. What’s at the top of your queue these days?</description>
     </item>
     
