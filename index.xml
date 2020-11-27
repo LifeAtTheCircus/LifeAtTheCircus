@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Life At The Circus</title>
     <link>LifeAtTheCircus.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Life At The Circus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Mar 2018 16:51:00 +0000</lastBuildDate><atom:link href="LifeAtTheCircus.github.io/index.xml" rel="self" type="application/rss+xml" />
