@@ -49,7 +49,11 @@ body {
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
+<<<<<<< HEAD
 	/* background: #f7f7f7; */
+=======
+	background: #f7f7f7;
+>>>>>>> 2553f5153eea35d94905347ce7ace32151377a56
 	background-image: url("background.png")
 	-webkit-font-smoothing: antialiased;
 }
